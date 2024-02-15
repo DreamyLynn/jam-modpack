@@ -1,0 +1,15 @@
+keepHatOnDeath = true
+seasonalBagChance = 20
+enableMobLoot = true
+enableChestLoot = true
+allowHatInHelmetSlot = false
+chestNoneWeight = 70
+chestCommonWeight = 10
+chestUncommonWeight = 7
+chestRareWeight = 5
+chestEpicWeight = 3
+entityNoneWeight = 100
+entityCommonWeight = 10
+entityUncommonWeight = 7
+entityRareWeight = 5
+entityEpicWeight = 3
