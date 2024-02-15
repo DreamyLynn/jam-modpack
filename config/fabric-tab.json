@@ -1,0 +1,8 @@
+{
+  "configVersion": 2,
+  "header": "§c§ljust another minecraft server         ",
+  "footer": "#N§eTPS: §7#TPS §f- §eMSPT: §7#MSPT §f- §ePlayers: §7#PLAYERCOUNT",
+  "motd": "§7§oWelcome to the server.§f",
+  "refreshTickInterval": 20,
+  "enabled": true
+}
