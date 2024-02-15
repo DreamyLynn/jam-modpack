@@ -1,0 +1,115 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				tropical_fish = true
+				slime = true
+				pig = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				zombified_piglin = true
+				piglin = true
+				hoglin = true
+				blaze = true
+				cat = true
+				rabbit = true
+				zombie = true
+				armor_stand = true
+				drowned = true
+				sheep = true
+				player = true
+				illusioner = true
+				pufferfish = true
+				item = true
+				villager = true
+				wolf = true
+				salmon = true
+				wither_skeleton = true
+				vex = true
+				zombie_villager = true
+				tnt_minecart = true
+				strider = true
+				item_frame = true
+				horse = true
+				minecart = true
+				cave_spider = true
+				glow_squid = true
+				witch = true
+				cod = true
+				glow_item_frame = false
+				squid = true
+				spider = true
+				creeper = true
+				enderman = true
+
+			[light_sources.settings.entities.earthtojavamobs]
+				piebald_pig = true
+				muddy_foot_rabbit = true
+				dairy_cow = true
+				pink_footed_pig = true
+				flecked_sheep = true
+				cream_cow = true
+				skeleton_wolf = true
+				rainbow_sheep = true
+				gold_crested_chicken = true
+				mottled_pig = true
+				bold_striped_rabbit = true
+				muddy_pig = true
+				wooly_cow = true
+				bouldering_zombie = true
+				ashen_cow = true
+				sooty_pig = true
+				vested_rabbit = true
+				patched_sheep = true
+				stormy_chicken = true
+				horned_sheep = true
+				cookie_cow = true
+				rocky_sheep = true
+				pinto_cow = true
+				albino_cow = true
+				fancy_chicken = true
+				jolly_llama = true
+				inky_sheep = true
+				sunset_cow = true
+				skewbald_chicken = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.myloot]
+				loot_chest_minecart = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				mauler = true
+				rascal = true
+

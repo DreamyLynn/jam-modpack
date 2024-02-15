@@ -1,0 +1,11 @@
+{
+  "conflictWithVanishingCurse": true,
+  "isTreasure": true,
+  "allowBreakItem": false,
+  "maxDamagePercent": 0,
+  "minPower": 25,
+  "powerRange": 50,
+  "compatibilityMode": "DEFAULT",
+  "blacklist": [],
+  "whitelist": []
+}
